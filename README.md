@@ -1,4 +1,7 @@
 # class1
 Erick Montalvo
 color verde
-Aplicaciones móviles 
+
+NUEVO TEXTO PARA VERIFICAR EL CAMBIO
+
+Aplicaciones móviles
